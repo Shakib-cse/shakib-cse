@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# 👋 Hi, I'm Shakib – Front-End Developer | MERN Stack Developer
+# 👋 Hi, I'm Md. Abu Rayhan (Shakib) – Front-End Developer | MERN Stack Developer
 
 ---
 
