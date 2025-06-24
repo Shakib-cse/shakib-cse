@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/HBKM8s4/dev-banner.png)
+![Banner](./banner.png)
 
 # 👋 Hi, I'm Shakib – Front-End Developer | MERN Stack Developer
 
